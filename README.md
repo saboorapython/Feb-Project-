@@ -11,3 +11,4 @@
 "# function-in-python" 
 "# Currency-Exchange-Program" 
 "# Functions-in-calc" 
+"# namaz-timing" 
