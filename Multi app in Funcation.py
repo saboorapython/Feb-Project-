@@ -5,13 +5,14 @@ def euro(amount):
     return amount * 300   
 
 def ringit(amount):
-    return amount * 60   
+    return amount * 60    # Example rate
 
 def pound(amount):
-    return amount * 350   
+    return amount * 350   # Example rate
 
 def dihram(amount):
-    return amount * 76   
+    return amount * 76    # Example rate
+
 
 while True:
     print("="*50, "Currency Exchange", "="*50)
